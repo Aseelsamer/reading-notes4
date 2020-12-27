@@ -13,7 +13,7 @@
 Read#   |  Link
 -----------|-----------
 Read1      | [Class01](https://aseelsamer.github.io/reading-notes4/readme1)
-Read2      | [Class02]()
+Read2      | [Class02](https://aseelsamer.github.io/reading-notes4/read02)
 Read3      | [Class03]()
 Read4      | [Class04]()
 Read5      | [Class05]()
