@@ -20,6 +20,10 @@ There are two categories of traversals(traverse allows you to search for a node)
 -In-order: left >> root >> right
 -Post-order: left >> right >> root
 
+Big O
+The Big O time complexity for inserting a new node is O(n). Searching for a specific node will also be O(n).
+The Big O space complexity for a node insertion using breadth first insertion will be O(w), where w is the largest width of the tree. 
+
 ----------------------------------------
 
 Binary Search Trees
@@ -28,3 +32,7 @@ A Binary Search Tree (BST) is a type of tree that does have some structure attac
 Searching a BST
 Searching a BST can be done quickly, because all you do is compare the node you are searching for against the root of the tree or sub-tree. If the value is smaller, you only traverse the left side. If the value is larger, you only traverse the right side.
 
+Big O
+The Big O time complexity of a Binary Search Tree’s insertion and search operations is O(h), or O(height). In the worst case, we will have to search all the way down to a leaf, which will require searching through as many nodes as the tree is tall. In a balanced (or “perfect”) tree, the height of the tree is log(n). In an unbalanced tree, the worst case height of the tree is n.
+
+The Big O space complexity of a BST search would be O(1). During a search, we are not allocating any additional space.
