@@ -27,3 +27,7 @@ Read12     | [Class12](https://aseelsamer.github.io/reading-notes4/read12)
 Read13     | [Class13](https://aseelsamer.github.io/reading-notes4/read13)
 Read14     | [Class14](https://aseelsamer.github.io/reading-notes4/read14)
 Read15     | [Class15](https://aseelsamer.github.io/reading-notes4/readme15)
+Read16     | [Class13](https://aseelsamer.github.io/reading-notes4/read16)
+Read17     | [Class14](https://aseelsamer.github.io/reading-notes4/read17)
+Read18     | [Class15](https://aseelsamer.github.io/reading-notes4/read18)
+
