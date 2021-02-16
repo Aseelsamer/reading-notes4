@@ -17,7 +17,25 @@
 
 ***thunk*** :middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met.
 
-------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 # Preview 
+
+-The Redux Toolkit package is intended to be the standard way to write Redux logic.
+
+This package will include :
+
+***configureStore()***:  It can automatically combine your slice reducers, adds whatever Redux middleware you supply, includes redux-thunk by default, and **enables use of the Redux DevTools Extension.**
+
+***createReducer()***: that lets you supply a lookup table of action types to case reducer functions, rather than writing switch statements.
+
+
+***createAction()***: generates an action creator function for the given action type string.
+
+
+-Installation : npx create-react-app my-app --template redux OR npm install @reduxjs/toolkit
+
+
+
+
 
